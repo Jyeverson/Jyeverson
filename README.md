@@ -7,7 +7,7 @@
  <p align="center">
  Quantidade de visitas no meu perfil desde o dia 14/09/2004 : 🕵 <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/matheussatnosspbr/count.svg" /></p>
+   <img alingn="center" src="https://profile-counter.glitch.me/jyeverson/count.svg" /></p>
 <p align="center">
 Obrigado e volte sempre! 😄
 </p>
