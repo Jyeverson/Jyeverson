@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Jyeverson Madalozo! 
-<img align="right" width="30%" height="200" src="https://i.giphy.com/media/idGw983D7CHrrXa2eO/giphy.webp">
+<img  width="30%" height="200" src="https://i.giphy.com/media/idGw983D7CHrrXa2eO/giphy.webp">
 
  <div>
   <a href="https://github.com/Jyeverson-Madalozo">
