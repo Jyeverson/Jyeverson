@@ -1,4 +1,4 @@
-## Olá, Eu sou o Jyeverson Madalozo! 
+## Hello, welcome to my profile, i'm Jyeverson Madalozo! 
  <div>
   <a href="https://github.com/Jyeverson-Madalozo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jyeverson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
