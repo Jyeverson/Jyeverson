@@ -1,5 +1,10 @@
 ## Hello, welcome to my profile, i'm Jyeverson Madalozo 👦🏻‍💻! 
- <div>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyeverson&label=Profile%20views&color=0e75b6&style=flat" alt="jyeverson" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyeverson&theme=onedark" alt="jyeverson" /></a> </p>
+
+<div>
   <a href="https://github.com/Jyeverson-Madalozo">
   <img align="eight" src="https://github-readme-stats.vercel.app/api?username=Jyeverson&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img align="eight" src="https://github-readme-streak-stats.herokuapp.com/?user=jyeverson&theme=highcontrast" alt="jyeverson" />
