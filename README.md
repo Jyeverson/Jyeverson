@@ -1,6 +1,4 @@
 ## Hello, welcome to my profile, i'm Jyeverson Madalozo 👦🏻‍💻! 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyeverson&label=Profile%20views&color=0e75b6&style=flat" alt="jyeverson" /> </p>
 
 <div>
   <a href="https://github.com/Jyeverson-Madalozo">
