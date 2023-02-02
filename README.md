@@ -25,4 +25,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<br><img align="center" alt="Coding" width="500" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" />
+<br><img align="center" alt="Coding" width="500" src="https://media.giphy.com/media/10FwycrnAkpshW/giphy.gif" />
